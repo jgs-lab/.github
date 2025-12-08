@@ -33,7 +33,6 @@ JGSHUB will expand to include additional tools, libraries, and prototypes suppor
 
 Each project reflects **personal authorship**, engineering quality, and long-term reusability.
 
----
 
 ## 📬 Contact
 
