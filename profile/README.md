@@ -32,10 +32,3 @@ JGSHUB will expand to include additional tools, libraries, and prototypes suppor
 - Visualization and spatial interaction experiments  
 
 Each project reflects **personal authorship**, engineering quality, and long-term reusability.
-
-
-## 📬 Contact
-
-**Dr. Javier González-Sánchez**  
-Human-Centered Intelligent Systems & Software Engineering  
-[javiergs.info](http://javiergs.info)
