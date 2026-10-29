@@ -1,4 +1,7 @@
+<img width="3840" height="1920" alt="8a88c809-c0e1-4853-9676-bca60b5ece54" src="https://github.com/user-attachments/assets/43268665-af87-492a-97c6-6a2c8e9deb2d" />
+
 This organization contains individually authored, research-oriented software modules that support human-centered computing, robotics, and intelligent systems development.
+
 These projects serve as the technical backbone for experimental systems, robotics workflows, and integration frameworks developed in your research and teaching.
 
 ## 🧩 Current Projects
