@@ -1,4 +1,5 @@
-<img width="3840" height="1920" alt="8a88c809-c0e1-4853-9676-bca60b5ece54" src="https://github.com/user-attachments/assets/43268665-af87-492a-97c6-6a2c8e9deb2d" />
+<img width="3840" height="893" alt="8a88c809-c0e1-4853-9676-bca60b5ece54" src="https://github.com/user-attachments/assets/68f823f2-1840-4d5a-9a0a-60ee153df798" />
+
 
 This organization contains individually authored, research-oriented software modules that support human-centered computing, robotics, and intelligent systems development.
 
