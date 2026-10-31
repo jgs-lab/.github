@@ -1,10 +1,8 @@
 <img width="1600" height="160" alt="jgs" src="https://github.com/user-attachments/assets/e7951751-c86d-4f25-84b1-f3844511bdd5" />
 
-<br/>
-<p>
-We develop open-source software for human-centered intelligent systems, robotics, and multimodal interaction. Our projects include reusable libraries, desktop applications, and research tools that connect physical devices, simulations, and intelligent systems.
+# Lab
 
-</p>
+We develop open-source software for human-centered intelligent systems, robotics, and multimodal interaction. Our projects include reusable libraries, desktop applications, and research tools that connect physical devices, simulations, and intelligent systems.
 
 ## Software libraries
 
