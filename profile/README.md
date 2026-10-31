@@ -6,12 +6,10 @@ We develops reusable Java software for human-centered intelligent systems, robot
 
 The following libraries are available through Maven Central. Each has a public Getting Started repository with setup instructions, runnable examples, and documentation.
 
-| Library | Purpose | Getting started |
-| --- | --- | --- |
-| **Cortex4J** | Access EMOTIV devices and EEG-related data streams from Java | [Examples and documentation](https://github.com/javiergs/cortex4j-getting-started) |
-| **RTDE4J** | Communicate with Universal Robots through RTDE and URScript | [Examples and documentation](https://github.com/javiergs/rtde4j-getting-started) |
-| **Turtle4J** | Connect Java applications to ROS 2 through rosbridge, including robot topics and sensors | [Examples and documentation](https://github.com/javiergs/turtle4j-getting-started) |
-| **TULIP** | Use Java utilities and integrations for software development and research | [Examples and documentation](https://github.com/javiergs/tulip-getting-started) |
+- **Cortex4J** — Access EMOTIV devices and EEG-related data streams from Java. [Examples and documentation](https://github.com/javiergs/cortex4j-getting-started).
+- **RTDE4J** — Communicate with Universal Robots through RTDE and URScript. [Examples and documentation](https://github.com/javiergs/rtde4j-getting-started).
+- **Turtle4J** — Connect Java applications to ROS 2 through rosbridge, including robot topics and sensors. [Examples and documentation](https://github.com/javiergs/turtle4j-getting-started).
+- **TULIP** — Use Java utilities and integrations for software development and research. [Examples and documentation](https://github.com/javiergs/tulip-getting-started).
 
 The Getting Started repositories are public learning resources that use the published libraries; they are not implementation repositories.
 
