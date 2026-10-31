@@ -1,8 +1,6 @@
 <img width="3840" height="893" alt="8a88c809-c0e1-4853-9676-bca60b5ece54" src="https://github.com/user-attachments/assets/68f823f2-1840-4d5a-9a0a-60ee153df798" />
 
-# jgs-lab
-
-**jgs-lab** develops reusable Java software for human-centered intelligent systems, robotics, and multimodal interaction. The projects connect research prototypes, physical devices, simulations, and classroom experiments through approachable APIs and reproducible examples.
+We develops reusable Java software for human-centered intelligent systems, robotics, and multimodal interaction. The projects connect research prototypes, physical devices, simulations, and classroom experiments through approachable APIs and reproducible examples.
 
 ## Software libraries
 
