@@ -17,7 +17,7 @@ We develop Java libraries that simplify communication with hardware, software pl
 
 ## Applications and tools
 
-Our applications explore practical integration of sensing, computer vision, and robotics. Downloadable releases will be provided separately from the private source repositories.
+Our applications explore practical integration of sensing, computer vision, and robotics.
 
 - **Universal Robots Desktop** — Desktop software for interacting with Universal Robots.
 - **RealSense Hanoi Tracker** — C++ application for tracking physical Tower of Hanoi disks using Intel RealSense, OpenCV, and MQTT.
