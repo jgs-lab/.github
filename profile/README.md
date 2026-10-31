@@ -13,10 +13,10 @@ We develop Java libraries that simplify communication with hardware, software pl
 
 ## Applications and tools
 
-Our applications explore practical integration of sensing, computer vision, and robotics.
+Our applications explore practical integration of sensing, computer vision, and robotics. Downloadable releases will be provided separately from the private source repositories.
 
-- **[Universal Robots Desktop](https://github.com/jgs-lab/src-universal-robots-desktop)** — Desktop software for interacting with Universal Robots.
-- **[RealSense Hanoi Tracker](https://github.com/jgs-lab/src-realsense-hanoi-tracker)** — C++ application for tracking physical Tower of Hanoi disks using Intel RealSense, OpenCV, and MQTT.
+- **Universal Robots Desktop** — Desktop software for interacting with Universal Robots.
+- **RealSense Hanoi Tracker** — C++ application for tracking physical Tower of Hanoi disks using Intel RealSense, OpenCV, and MQTT.
 
 ## Research and development
 
@@ -24,4 +24,4 @@ Our software supports research and experimentation in human–computer and human
 
 ## Explore and contribute
 
-Explore the repositories for source code and documentation. The Getting Started projects offer runnable examples for the Java libraries. Bug reports, suggestions, and contributions are welcome through GitHub issues and pull requests; check each repository's contribution guidelines before submitting changes.
+Explore the public libraries, examples, and documentation. The Getting Started projects offer runnable examples for the Java libraries. Bug reports, suggestions, and contributions are welcome through GitHub issues and pull requests; check each repository's contribution guidelines before submitting changes.
