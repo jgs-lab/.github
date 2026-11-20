@@ -18,6 +18,7 @@ We develop Java libraries that simplify communication with hardware, software pl
 Our applications explore practical integration of sensing, computer vision, and robotics.
 
 - **Universal Robots Desktop** — Desktop software for interacting with Universal Robots.
+- **PILART Desktop** — Desktop app for live RealSense depth capture, multi-view webcam scanning, and viewing PLY point clouds.
 - **RealSense Hanoi Tracker** — C++ application for tracking physical Tower of Hanoi disks using Intel RealSense, OpenCV, and MQTT.
 
 ## Research and development
