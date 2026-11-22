@@ -14,7 +14,7 @@ API documentation, and runnable examples.
 - **[Cortex4J](https://github.com/javiergs/cortex4j-getting-started)** provides Java access to the EMOTIV Cortex API and EEG-related data streams.
 - **[RTDE4J](https://github.com/javiergs/rtde4j-getting-started)** connects Java applications to Universal Robots through RTDE and URScript.
 - **[Turtle4J](https://github.com/javiergs/turtle4j-getting-started)** connects Java applications to ROS 2 through rosbridge.
-- **[TULIP4J](https://github.com/javiergs/tulip4j-getting-started)** provides Java utilities for software engineering education, including GitHub, Taiga, Groq, and introductory compiler exercises.
+- **[Tulip4J](https://github.com/javiergs/tulip4j-getting-started)** provides Java utilities for software engineering education, including GitHub, Taiga, Groq, and introductory compiler exercises.
 
 ## Desktop applications
 
