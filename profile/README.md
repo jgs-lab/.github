@@ -22,8 +22,7 @@ The public application repositories provide downloads and usage guides.
 
 - **[ROVER Desktop](https://github.com/javiergs/rover-desktop)** supports simulation, visualization, and interaction with Universal Robots e-Series arms.
 - **[LIDAR Desktop](https://github.com/javiergs/lidar-desktop)** captures RealSense RGB and depth, displays 3D point clouds, and opens and saves PLY models.
-
-**Meta Pose Tracker** is a research prototype that visualizes body poses and
+- **Meta Pose Tracker** is a research prototype that visualizes body poses and
 gaze streamed from a Meta Quest through Unity and MQTT.
 
 ## Research and contributions
