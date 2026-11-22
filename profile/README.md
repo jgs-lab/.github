@@ -1,30 +1,30 @@
 <img width="1600" height="160" alt="jgs" src="https://github.com/user-attachments/assets/e7951751-c86d-4f25-84b1-f3844511bdd5" />
 
-# 
+# jgs-lab
 
-We develop open-source software for human-centered intelligent systems, robotics, and multimodal interaction. Our projects include reusable libraries, desktop applications, and research tools that connect physical devices, simulations, and intelligent systems.
+We build software for human–computer interaction, robotics, and multimodal
+sensing. Our projects connect physical devices, simulations, and desktop
+applications for research and teaching.
 
-## Software libraries
+## Java libraries
 
-We develop Java libraries that simplify communication with hardware, software platforms, and external services. These libraries are distributed through Maven Central, with separate Getting Started repositories containing examples and documentation.
+The public Getting Started repositories provide Maven dependency coordinates,
+API documentation, and runnable examples.
 
-- **[Cortex4J](https://github.com/jgs-lab/api-cortex4j)** — Access EMOTIV devices and EEG-related data streams from Java. [Getting Started](https://github.com/javiergs/cortex4j-getting-started).
-- **[RTDE4J](https://github.com/jgs-lab/api-rtde4j)** — Communicate with Universal Robots through RTDE and URScript. [Getting Started](https://github.com/javiergs/rtde4j-getting-started).
-- **[Turtle4J](https://github.com/jgs-lab/api-turtle4j)** — Connect Java applications to ROS 2 through rosbridge, including robot topics and sensors. [Getting Started](https://github.com/javiergs/turtle4j-getting-started).
-- **[TULIP](https://github.com/jgs-lab/api-tulip)** — Java utilities and integrations for software development and research. [Getting Started](https://github.com/javiergs/tulip-getting-started).
+- **[Cortex4J](https://github.com/javiergs/cortex4j-getting-started)** provides Java access to the EMOTIV Cortex API and EEG-related data streams.
+- **[RTDE4J](https://github.com/javiergs/rtde4j-getting-started)** connects Java applications to Universal Robots through RTDE and URScript.
+- **[Turtle4J](https://github.com/javiergs/turtle4j-getting-started)** connects Java applications to ROS 2 through rosbridge.
+- **[TULIP4J](https://github.com/javiergs/tulip4j-getting-started)** provides Java utilities for software engineering education, including GitHub, Taiga, Groq, and introductory compiler exercises.
 
-## Applications and tools
+## Desktop applications
 
-Our applications explore practical integration of sensing, computer vision, and robotics.
+The public application repositories provide downloads and usage guides.
 
-- **Universal Robots Desktop** — Desktop software for interacting with Universal Robots.
-- **PILART Desktop** — Desktop app for live RealSense depth capture, multi-view webcam scanning, and viewing PLY point clouds.
-- **RealSense Hanoi Tracker** — C++ application for tracking physical Tower of Hanoi disks using Intel RealSense, OpenCV, and MQTT.
+- **[ROVER Desktop](https://github.com/javiergs/rover-desktop)** supports simulation, visualization, and interaction with Universal Robots e-Series arms.
+- **[LIDAR Desktop](https://github.com/javiergs/lidar-desktop)** captures RealSense RGB and depth, displays 3D point clouds, and opens and saves PLY models.
 
-## Research and development
+## Research and contributions
 
-Our software supports research and experimentation in human–computer and human–robot interaction, affective and physiological computing, multimodal sensing, robotics, and distributed intelligent systems. We emphasize reusable components, approachable APIs, and practical integration between research prototypes and real-world devices.
-
-## Explore and contribute
-
-Explore the public libraries, examples, and documentation. The Getting Started projects offer runnable examples for the Java libraries. Bug reports, suggestions, and contributions are welcome through GitHub issues and pull requests; check each repository's contribution guidelines before submitting changes.
+Our research spans human–robot interaction, affective and physiological
+computing, and multimodal sensing. To report a bug or suggest an improvement,
+open an issue in the relevant public project repository.
